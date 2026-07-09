@@ -1,3 +1,3 @@
-quantitative trading learning\n
-Note: Early files are practice for learning Python tools.\n
+quantitative trading learning
+Note: Early files are practice for learning Python tools.
 Main quant work starts from Day3.
